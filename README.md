@@ -7,7 +7,7 @@ Repository ini dibuat untuk memenuhi Tugas Latihan 1 dalam mata kuliah Desain da
 
 Keterangan untuk file C++, Java, PHP, dan Python, terdapat 2 class yaitu :
 - Main/index : Bagian untuk menjalankan programnya.
-- DataTim : Bagian dari atribut private dan public serta metode constructor setter, getter, destructor, dan print data tim.
+- DataTim : Bagian dari atribut private dan public serta metode Constructor, Setter, Getter, Destructor, dan print data tim.
 
 Isi dari class DataTim adalah sebagai berikut:
 - Tim     : Nama Tim
