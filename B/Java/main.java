@@ -14,7 +14,7 @@ class main
 
         // Print Tim Pertama
         System.out.println("====================================");
-        System.out.println("Tim Pertama    :");
+        System.out.println("Tim Pertama     :");
         System.out.println("====================================");
         T_satu.printData();
         
@@ -23,7 +23,7 @@ class main
 
         // Print Tim Kedua
         System.out.println("====================================");
-        System.out.println("Tim Kedua      :");
+        System.out.println("Tim Kedua       :");
         System.out.println("====================================");
         T_dua.printData();
 
